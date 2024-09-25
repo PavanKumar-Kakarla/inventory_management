@@ -30,3 +30,39 @@ INFO 2024-09-24 17:39:39,133 views New item successfully added
 INFO 2024-09-24 17:39:45,247 views GET request received for inventory items
 INFO 2024-09-24 17:40:09,303 views GET request received for retriving 3 item details
 INFO 2024-09-24 17:41:36,422 views item was successfully deleted
+INFO 2024-09-25 11:37:24,794 views Received the new user request
+INFO 2024-09-25 11:37:26,042 views New user successfully registered
+INFO 2024-09-25 11:45:05,120 views Received the new user request
+INFO 2024-09-25 11:45:06,403 views New user successfully registered
+INFO 2024-09-25 11:48:10,079 views New item successfully added
+INFO 2024-09-25 11:49:34,743 views New item successfully added
+INFO 2024-09-25 11:50:02,995 views GET request received for inventory items
+INFO 2024-09-25 11:50:37,948 views GET request received for retriving 5 item details
+INFO 2024-09-25 11:51:17,623 views GET request received for retriving 5 item details
+ERROR 2024-09-25 11:52:43,579 views Received the wrong data
+INFO 2024-09-25 11:53:41,032 views Item was successfully updated
+INFO 2024-09-25 11:54:25,726 views item was successfully deleted
+INFO 2024-09-25 11:58:33,897 views New item successfully added
+INFO 2024-09-25 11:58:35,917 views New item successfully added
+INFO 2024-09-25 11:58:35,930 views item was successfully deleted
+INFO 2024-09-25 11:58:36,934 views GET request received for inventory items
+INFO 2024-09-25 11:58:37,934 views GET request received for retriving 9999 item details
+ERROR 2024-09-25 11:58:37,937 views Item 9999 was not found
+INFO 2024-09-25 11:58:38,971 views New item successfully added
+INFO 2024-09-25 11:58:38,981 views Item was successfully updated
+INFO 2024-09-25 12:22:35,244 views Received the new user request
+INFO 2024-09-25 12:22:36,384 views New user successfully registered
+INFO 2024-09-25 12:24:44,938 views New item successfully added
+INFO 2024-09-25 12:26:08,286 views GET request received for inventory items
+INFO 2024-09-25 12:26:36,651 views GET request received for retriving 6 item details
+INFO 2024-09-25 12:27:15,673 views GET request received for retriving 6 item details
+INFO 2024-09-25 12:28:09,225 views Item was successfully updated
+INFO 2024-09-25 12:28:51,841 views item was successfully deleted
+INFO 2024-09-25 12:33:22,958 views New item successfully added
+INFO 2024-09-25 12:33:25,045 views New item successfully added
+INFO 2024-09-25 12:33:25,059 views item was successfully deleted
+INFO 2024-09-25 12:33:26,082 views GET request received for inventory items
+INFO 2024-09-25 12:33:27,098 views GET request received for retriving 9999 item details
+ERROR 2024-09-25 12:33:27,099 views Item 9999 was not found
+INFO 2024-09-25 12:33:28,032 views New item successfully added
+INFO 2024-09-25 12:33:28,042 views Item was successfully updated
